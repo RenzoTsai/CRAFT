@@ -1,0 +1,21 @@
+.env
+.env.*
+!.env.example
+.venv*/
+__pycache__/
+*.pyc
+.models/
+data/
+backend/data/
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/next-env.d.ts
+*.tsbuildinfo
+.DS_Store
+
+# Local dependency backups and editor/sync copies
+.venv*/
+* 2.*
+.gitignore 2
+*.log

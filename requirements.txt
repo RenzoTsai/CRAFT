@@ -1,0 +1,19 @@
+fastapi==0.115.12
+uvicorn[standard]==0.34.3
+google-genai==2.23.0
+Pillow==11.2.1
+python-dotenv==1.1.0
+numpy==1.26.4
+pydantic-settings==2.9.1
+json-repair==0.44.1
+opencv-contrib-python==4.11.0.86
+mediapipe==1.0.1
+sentence-transformers==2.7.0
+transformers==4.57.6
+torch==2.14.0
+pyzmq==27.0.0
+msgpack==1.0.5
+geocoder==1.38.1
+geopy==2.4.1
+translate==3.6.1
+pyobjc-framework-CoreLocation>=11,<13; sys_platform == "darwin"
